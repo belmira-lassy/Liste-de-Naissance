@@ -1,0 +1,84 @@
+body {
+    background-image: url("Pied de bébé.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    min-width: 100vw;
+	font-family: cursive;
+    color:#FBCE56;
+	
+}
+
+.form{
+	width:400px;
+}
+
+a{ color:#C42020;
+}
+
+th{ color:White;
+	
+}
+
+p{
+	color:#49A2C5  
+}
+
+h1{	color:#C57F49 ;
+	position:relative;
+}
+	
+.Cellule1{
+background-color:#FF8247 
+}
+
+.Cellule2{
+background-color:#DA7FF7 
+}
+
+.Cellule3{
+background-color:#F1F54C  
+}	
+
+.Cellule4{
+background-color:#7AF54C  
+}
+
+.topleft {
+  position: absolute;
+  top: 0;
+  left: 16px;
+}
+
+
+.bottomleft {
+  position: absolute;
+  bottom: 0;
+  left: 16px;
+}
+
+
+
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+hr {
+  margin: auto;
+  width: 40%;
+}
+
+
+.tftable {font-size:12px;color:#333333;width:90%;border-width: 0px;border-color: #729ea5;border-collapse:separate;}
+.tftable th {font-size:12px;background-color:#608CFD;border-width: 1px;padding: 8px;border-style:none;border-color: #729ea5;text-align:center;}
+.tftable tr {background-color:#d4e3e5;text-align:center;}
+.tftable td {font-size:12px;border-width: 9px;padding: 12px;border-style:none;border-color:#F36A2B;}
+.tftable tr:hover {background-color:#ffffff;}
+
+ 
+ 
